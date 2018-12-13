@@ -1,0 +1,7 @@
+﻿*{margin:0; padding:0;}
+ul,li,dl,dt,dd,ol,h1,h2,h3,h4,h5,h6,form,label,header,section{display:block;}
+ul{list-style:none;}
+.clearfix:after{display:block; height:0; line-height:0; clear:both; content:'.'; visibility:hidden;}
+.ellipsis{white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
+a{text-decoration:none;}
+body{font-family:"微软雅黑","黑体";}
